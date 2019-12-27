@@ -1,0 +1,19 @@
+{
+  "name": "wikipedia-template_daniel-hall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontrellthedeveloper/Sample-wiki-loyalty-series.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dontrellthedeveloper/Sample-wiki-loyalty-series/issues"
+  },
+  "homepage": "https://github.com/dontrellthedeveloper/Sample-wiki-loyalty-series#readme"
+}
